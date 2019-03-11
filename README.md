@@ -9,6 +9,11 @@
 - Data Base
 -
 
+## 문서
+문서 폴더에 있는 문서들은 다음과 같습니다.
+- [계획서](https://github.com/seoyo1/Capstone-design/blob/master/Report/ReadMe.md)
+- 
+
 ## 폴더
 ```
 Captures   프로젝트를 진행하면서 나온 캡처들을 모아놓는 폴더입니다.
