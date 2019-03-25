@@ -13,6 +13,7 @@
 문서 폴더에 있는 문서들은 다음과 같습니다.
 - [계획서](https://github.com/seoyo1/Capstone-design/blob/master/Report/ReadMe.md)
 - [회의록](https://github.com/seoyo1/Capstone-design/blob/master/Report/20190311%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
+- [메뉴구성](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EB%A9%94%EB%89%B4%EA%B5%AC%EC%84%B1.xlsx)
 
 ## 폴더
 ```
