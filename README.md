@@ -15,7 +15,7 @@
 - 학교 커뮤니티 앱을 통해 동승자를 구해 카톡방을 만드는 것보다 앱을 통해 사용자가 직접 동승자를 바로 구해 이동할 수 있어 시간을 절약할 수 있다.    
   
 ## 스킬
-- App 개발
+- Android App 개발
 - Data Base 구축 및 연결
 - 요구사항 분석
 
@@ -24,7 +24,9 @@
 - [계획서](https://github.com/seoyo1/Capstone-design/blob/master/Report/ReadMe.md)
 - [메뉴구성](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EB%A9%94%EB%89%B4%EA%B5%AC%EC%84%B1.xlsx)
 - [화면설계](https://github.com/seoyo1/Capstone-design/blob/master/Report/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84(%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%EC%A1%B0).ppt)
-- [중간 보고서]()
+- [중간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C(%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%EC%A1%B0).hwp)
+- [주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
+- [프로젝트개발 진행현황](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EB%B3%B5%EC%82%AC%EB%B3%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B0%9C%EB%B0%9C%20%EC%A7%84%ED%96%89%ED%98%84%ED%99%A9.xlsx)
 
 ## 회의록
 - [20190311 월](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190311%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
