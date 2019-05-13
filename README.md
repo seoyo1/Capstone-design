@@ -30,15 +30,14 @@
 - 요구사항 분석
 
 ## 주요 문서
-주요 문서들은 다음과 같습니다.
+주요 문서들은 [Document](https://github.com/seoyo1/Capstone-design/tree/master/Documents)에 저장되어있고 다음과 같습니다.
 - [계획서](https://github.com/seoyo1/Capstone-design/blob/master/Report/ReadMe.md)
 - [메뉴구성](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EB%A9%94%EB%89%B4%EA%B5%AC%EC%84%B1.xlsx)
 - [화면설계](https://github.com/seoyo1/Capstone-design/blob/master/Report/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84(%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%EC%A1%B0).ppt)
-- [중간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C(%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%EC%A1%B0).hwp)
-- [주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 - [프로젝트개발 진행현황](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EB%B3%B5%EC%82%AC%EB%B3%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B0%9C%EB%B0%9C%20%EC%A7%84%ED%96%89%ED%98%84%ED%99%A9.xlsx)
 
-## 회의록
+## 회의록 
+회의록은 [Minutes](https://github.com/seoyo1/Capstone-design/tree/master/Minutes)에 저장되어있고 다음과 같습니다.
 - [20190311 월](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190311%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 - [20190319 화](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190319_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 - [20190327 수](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190327_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
@@ -46,9 +45,13 @@
 - [20190408 월](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190408_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 - [20190424 수](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190424_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 - [20190501 수](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190501%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
+- [20190508 수](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190508%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
+- [20190513 월](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190513%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 
 ## 주간보고서
-- []()
+주간보고서는 [Report](https://github.com/seoyo1/Capstone-design/tree/master/Report)에 저장되어있고 다음과 같습니다.
+- [중간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C(%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%EC%A1%B0).hwp)
+- [주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 
 ## 폴더 구조
 ```
