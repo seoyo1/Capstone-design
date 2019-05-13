@@ -51,7 +51,7 @@
 ## 주간보고서
 주간보고서는 [Report](https://github.com/seoyo1/Capstone-design/tree/master/Report)에 저장되어있고 다음과 같습니다.
 - [중간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C(%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%EC%A1%B0).hwp)
-- [주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
+- [9주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 
 ## 폴더 구조
 ```
