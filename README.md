@@ -1,13 +1,15 @@
 ## 개요
-- Capstone-design Project를 진행하기 위한 Git 저장소 입니다.
-
+- Capstone-design Project 위한 Git 장소 입니다.
+  - 프로젝트 진행간 나오는 소스 코드, 회의록, 화면설계 등 여러가지 자료들이 있습니다
+  - 택시 동승하는 앱이라는 학생뿐만이 아니라 모두가 실생활에서 사용할 수 있는 앱을 구현하는 것이 프로젝트 주제입니다.
+  
 ## 팀
 - 팀명 : 하늘보기
 - 팀원
-  - 김혜진( 20165121 ) : 개발 관리
-  - 이은지( 20165152 ) : PM 
-  - 이지수( 20165155 ) : 개발 관리
-  - 장세영( 20165160 ) : 문서 관리, 회의록 작성
+  - 김혜진 : 개발 관리
+  - 이은지 : PM 
+  - 이지수 : 개발 관리
+  - 장세영 : 문서 관리, 회의록 작성
 
 ## 주제 
 - 프로젝트 명 : Go together!
@@ -44,6 +46,9 @@
 - [20190408 월](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190408_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 - [20190424 수](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190424_%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 - [20190501 수](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190501%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
+
+## 주간보고서
+- []()
 
 ## 폴더 구조
 ```
