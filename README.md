@@ -48,7 +48,7 @@
 - [20190508 수](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190508%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 - [20190513 월](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190513%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 - [20190514 화](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190514%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
-- [20190520 ](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190520%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
+- [20190520 월](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190520%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 
 ## 주간보고서
 주간보고서는 [Report](https://github.com/seoyo1/Capstone-design/tree/master/Report)에 저장되어있고 다음과 같습니다.
