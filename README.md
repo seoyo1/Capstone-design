@@ -55,6 +55,7 @@
 - [중간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C(%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%EC%A1%B0).hwp)
 - [9주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/9%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 - [11주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/11%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
+- [12주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/12%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 
 ## 소스 코드
 [소스 코드](https://github.com/Lee-eunji/GoTogether) 는 여기에 자동으로 올리도록 설정하였습니다.
