@@ -48,12 +48,13 @@
 - [20190508 수](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190508%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 - [20190513 월](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190513%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 - [20190514 화](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190514%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
-
+- [20190520 ](https://github.com/seoyo1/Capstone-design/blob/master/Minutes/20190520%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%ED%9A%8C%EC%9D%98%EB%A1%9D.docx)
 
 ## 주간보고서
 주간보고서는 [Report](https://github.com/seoyo1/Capstone-design/tree/master/Report)에 저장되어있고 다음과 같습니다.
 - [중간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EC%A4%91%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C(%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%EC%A1%B0).hwp)
-- [9주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
+- [9주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/9%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
+- [11주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/11%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 
 ## 소스 코드
 [소스 코드](https://github.com/Lee-eunji/GoTogether) 는 여기에 자동으로 올리도록 설정하였습니다.
