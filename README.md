@@ -9,8 +9,7 @@
   - 김혜진 : 개발 관리
   - 이은지 : PM 
   - 이지수 : 개발 관리
-  - 장세영 : Github관리 및 업로드 
-            문서, 양식, 회의록, 주간보고서 작성 및 업로드 담당
+  - 장세영 : Github관리 및 업로드 / 문서, 양식, 회의록, 주간보고서 작성 및 업로드 담당
 
 ## 주제 
 - 프로젝트 명 : Go together!
@@ -36,6 +35,7 @@
 - [메뉴구성](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EB%A9%94%EB%89%B4%EA%B5%AC%EC%84%B1.xlsx)
 - [화면설계](https://github.com/seoyo1/Capstone-design/blob/master/Report/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84(%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%EC%A1%B0).ppt)
 - [프로젝트개발 진행현황](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EB%B3%B5%EC%82%AC%EB%B3%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B0%9C%EB%B0%9C%20%EC%A7%84%ED%96%89%ED%98%84%ED%99%A9.xlsx)
+- [최종 발표 ppt]() 
 
 ## 회의록 
 회의록은 [Minutes](https://github.com/seoyo1/Capstone-design/tree/master/Minutes)에 저장되어있고 다음과 같습니다.
@@ -59,7 +59,7 @@
 - [9주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/9%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 - [11주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/11%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 - [12주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/12%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
-
+- [최종 보고서]() 
 ## 소스 코드
 [소스 코드](https://github.com/Lee-eunji/GoTogether) 는 여기에 자동으로 올리도록 설정하였습니다.
 
