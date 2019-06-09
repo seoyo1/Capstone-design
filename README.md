@@ -35,7 +35,7 @@
 - [메뉴구성](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EB%A9%94%EB%89%B4%EA%B5%AC%EC%84%B1.xlsx)
 - [화면설계](https://github.com/seoyo1/Capstone-design/blob/master/Report/%ED%99%94%EB%A9%B4%EC%84%A4%EA%B3%84(%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%EC%A1%B0).ppt)
 - [프로젝트개발 진행현황](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EB%B3%B5%EC%82%AC%EB%B3%B8%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B0%9C%EB%B0%9C%20%EC%A7%84%ED%96%89%ED%98%84%ED%99%A9.xlsx)
-- [최종 발표 ppt]() 
+- [최종 발표 ppt](https://github.com/seoyo1/Capstone-design/blob/master/Documents/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%BA%A1%EC%8A%A4%ED%86%A4%EB%94%94%EC%9E%90%EC%9D%B8_%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C_%ED%95%98%EB%8A%98%EB%B3%B4%EA%B8%B0%20(1).pptx) 
 
 ## 회의록 
 회의록은 [Minutes](https://github.com/seoyo1/Capstone-design/tree/master/Minutes)에 저장되어있고 다음과 같습니다.
@@ -59,7 +59,7 @@
 - [9주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/9%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 - [11주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/11%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 - [12주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/12%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
-- [최종 보고서]() 
+- [최종 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp)
 ## 소스 코드
 [소스 코드](https://github.com/Lee-eunji/GoTogether) 는 여기에 자동으로 올리도록 설정하였습니다.
 
