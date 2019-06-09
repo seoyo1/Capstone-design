@@ -6,9 +6,9 @@
 ## 팀
 - 팀명 : 하늘보기
 - 팀원
-  - 김혜진 : 개발 관리
-  - 이은지 : PM 
-  - 이지수 : 개발 관리
+  - 김혜진 : 앱 개발,관리
+  - 이은지 : 앱 개발,관리 / PM 
+  - 이지수 : 앱 개발, 관리
   - 장세영 : Github관리 및 업로드 / 문서, 양식, 회의록, 주간보고서 작성 및 업로드 담당
 
 ## 주제 
@@ -60,6 +60,7 @@
 - [11주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/11%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 - [12주차_주간 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/12%EC%A3%BC%EC%B0%A8_%EC%A3%BC%EA%B0%84%EB%B3%B4%EA%B3%A0%EC%84%9C.ppt)
 - [최종 보고서](https://github.com/seoyo1/Capstone-design/blob/master/Report/%EC%B5%9C%EC%A2%85%EB%B3%B4%EA%B3%A0%EC%84%9C.hwp)
+
 ## 소스 코드
 [소스 코드](https://github.com/Lee-eunji/GoTogether) 는 여기에 자동으로 올리도록 설정하였습니다.
 
